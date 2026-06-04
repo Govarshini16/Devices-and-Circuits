@@ -101,14 +101,19 @@ Step 3: Calculate hrb =∆𝑉𝑏𝑐
 # INPUT CHARACTERISTICS:
 
 # OUTPUT CHARACTERISTICS: 
+<img width="562" height="717" alt="image" src="https://github.com/user-attachments/assets/ca1609b5-2259-4031-9f8c-adc1bc710c91" />
+
 
 # MODEL CALCULATION :
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/94d41e0d-de85-4fd6-948c-61961208b44f" />
+
 
 # MODEL GRAPH:
 
 <img width="540" height="237" alt="image" src="https://github.com/user-attachments/assets/737a1839-adcc-47e8-b14a-ef9c14a3432c" />
 
 # GRAPH:
+<img width="622" height="792" alt="image" src="https://github.com/user-attachments/assets/645e5ab6-6674-49ec-8dac-c8e6ff08b168" />
 
 
 # RESULT:
