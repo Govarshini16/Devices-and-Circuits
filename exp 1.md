@@ -65,7 +65,7 @@ Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 <img width="491" height="224" alt="image" src="https://github.com/user-attachments/assets/7258e48b-93d9-45ef-9bf7-f4f6b2e2cf3a" />
 
 # GRAPH:
-<img width="832" height="682" alt="image" src="https://github.com/user-attachments/assets/95b3bddf-df4c-4b9b-a1b7-73b599a9692b" />
+<img width="926" height="750" alt="image" src="https://github.com/user-attachments/assets/d56f8ee1-8aae-435b-a07f-675bcf6f88a8" />
 
 
 # RESULT
