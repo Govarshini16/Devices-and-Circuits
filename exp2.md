@@ -47,14 +47,20 @@ Forward Resistance RF = ΔVF/ ΔIF (Ω)
 Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 # TABULATION:
+<img width="565" height="637" alt="image" src="https://github.com/user-attachments/assets/0af6dde6-03cb-43e0-8bbe-31cbe3433a5f" />
+
 
 # MODEL CALCULATION:
+<img width="555" height="771" alt="image" src="https://github.com/user-attachments/assets/16af77b7-9e66-492a-a778-dbf4dcb5aa03" />
+
 
 # MODEL GRAPH:
 
 <img width="500" height="245" alt="image" src="https://github.com/user-attachments/assets/ae99eb41-739f-425a-9131-338835626e19" />
 
 # GRAPH:
+<img width="562" height="760" alt="image" src="https://github.com/user-attachments/assets/9fbc5cfb-3969-4a77-8ab2-c9370f1e124f" />
+
 
 # RESULT
 Thus the Zener diode characteristics were studied
