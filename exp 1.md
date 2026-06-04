@@ -30,7 +30,7 @@ increases.
 3. Changing the Volt knob of RPS, increase the applied voltage from 0 V to 0.1 V in
 voltmeter and tabulate under Vf.
 4. Note down the ammeter reading in Milliamp range as If.
-5. Vary the RPS, and change the voltmeter reading in steps of 0.1 V and tabulate the
+5. Vary the RPS, and change the voltmeter reading in steps of 0.1 V and tabulate the 
 corresponding current reading till 1 V
 6. A graph is drawn between Vf and If.
 7. Calculate the slope of linear portion of graph to obtain forward resistance
@@ -65,7 +65,7 @@ Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 <img width="491" height="224" alt="image" src="https://github.com/user-attachments/assets/7258e48b-93d9-45ef-9bf7-f4f6b2e2cf3a" />
 
 # GRAPH:
-<img width="502" height="671" alt="image" src="https://github.com/user-attachments/assets/0bbcfd62-e98d-4cb1-8671-c76b09a285e6" />
+<img width="502" height="671" alt="image" src="https://github.com/user-attachments/assets/b1f4842c-3f47-4042-ae79-ed10e77ca836" />
 
 
 
